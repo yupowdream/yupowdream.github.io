@@ -1,0 +1,66 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: poppins;
+    box-sizing: border-box;
+}
+a{
+    text-decoration: none;
+}
+ul{
+    list-style: none;
+}
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: poppins;
+}
+.hero{
+    background-image: url("/Images/devphoto.jpeg");
+    color: rgb(0, 0, 0);
+}
+.KWM{
+    font-size: 30px;
+    color: rgb(255, 247, 247);
+    font-weight: 600;
+}
+
+.intro-heading{
+    font-size: 40px;
+    color:rgb(26, 25, 25);
+    font-weight: 600;
+    padding: 200px;
+    padding-bottom: 5px;
+    padding-left: 700px;
+    font-style: italic;
+}
+.intro-para{
+    font-size: 25px;
+    color:rgb(26, 25, 25);
+    font-weight: 300;
+    padding: 10px;
+    padding-left: 700px;
+    font-style: normal;
+}
+.name{
+    font-size: 35px;
+    color:rgb(26, 25, 25);
+    font-weight: 300;
+    padding: 10px;
+    padding-bottom: 5px;
+    padding-left: 700px;
+    font-style: normal;
+}
+.footer{
+    font-weight: 500;
+    font-size: 25px;
+    text-align: center;
+    padding: bottom 0px;
+}
+.Funfact{
+    font-size: 25px;
+    color:rgb(26, 25, 25);
+    font-weight: 300;
+    padding-left: 700px;
+    font-style: normal;
+}
