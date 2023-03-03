@@ -16,7 +16,7 @@ body{
     font-family: poppins;
 }
 .hero{
-    background-image: url("/Images/devphoto.jpeg");
+    background-image: url("Images/devphoto.jpeg");
     color: rgb(0, 0, 0);
 }
 .KWM{
