@@ -16,54 +16,70 @@ body{
     font-family: poppins;
 }
 .hero{
-    background-image: url("Images/devphoto.jpeg");
-    color: rgb(0, 0, 0);
+    background-image: url("Images/dev3.jpg");
+    backface-visibility: visible;
+    color: #ffffff;
+    font-size: 10px;
 }
 .KWM{
-    font-size: 30px;
-    color: rgb(255, 247, 247);
+    font-size: 5px;
+    color: rgb(0, 0, 0);
     font-weight: 600;
+    background-color:aliceblue;
 }
 
 .intro-heading{
-    font-size: 40px;
-    color:rgb(26, 25, 25);
+    font-size: 25px;
+    color:rgb(85, 84, 84);
     font-weight: 600;
     padding: 200px;
     padding-bottom: 5px;
-    padding-left: 700px;
+    padding-left: 550px;
     font-style: italic;
 }
 .intro-para{
     font-size: 25px;
-    color:rgb(26, 25, 25);
-    font-weight: 300;
+    color:rgb(0, 0, 0);
+    font-weight: 350;
     padding: 10px;
-    padding-left: 700px;
+    padding-left: 550px;
     font-style: normal;
 }
 .name{
     font-size: 36px;
-    color:rgb(26, 25, 25);
+    color:rgb(0, 0, 0);
     font-weight: 300;
     padding: 10px;
     padding-bottom: 5px;
-    padding-left: 700px;
+    padding-left: 550px;
     font-style: normal;
+}
+.blog-box{
+    padding-bottom: 10px;
 }
 .footer{
     font-weight: 500;
-    font-size: 25px;
+    font-size: 20px;
     text-align: center;
-    padding: bottom 0px;
+    padding-bottom: 0px;
 }
 .Funfact{
     font-size: 25px;
     color:rgb(26, 25, 25);
     font-weight: 300;
-    padding-left: 700px;
+    padding-left: 550px;
     font-style: normal;
+
 }
-.Profile{
-    color: aliceblue;
+.navigate{
+    font-size: 28px;
+    margin-bottom: 0;
+    font-weight: 600;
+    text-decoration-color: black;
+
+}
+.img{
+    border-top-right-radius: 59%;
+    border-bottom-left-radius: 80%;
+
 }
