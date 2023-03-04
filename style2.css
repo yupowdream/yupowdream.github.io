@@ -17,7 +17,6 @@ body{
 }
 .hero{
     background-image: url("Images/dev3.jpg");
-    backface-visibility: visible;
     color: #ffffff;
     font-size: 10px;
 }
@@ -53,9 +52,6 @@ body{
     padding-bottom: 5px;
     padding-left: 550px;
     font-style: normal;
-}
-.blog-box{
-    padding-bottom: 10px;
 }
 .footer{
     font-weight: 500;
