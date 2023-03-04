@@ -52,8 +52,10 @@ body{
     margin: 20px;
 }
 .blog-img{
-    width: 100%;
+    width: 60%;
     height: auto;
+    padding-left: 900px;
+    object-position: center;
 }
 .blog-img img{
     width: 100%;
