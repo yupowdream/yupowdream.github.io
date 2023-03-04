@@ -14,6 +14,7 @@ body{
     margin: 0px;
     padding: 0px;
     font-family: poppins;
+    background-color: rgb(29, 29, 29);
 }
 
 /*--blog-------------------------------------------------*/
@@ -36,7 +37,7 @@ body{
 }
 .blog-heading h3{
     font-size: 2.4rem;
-    color:black;
+    color:rgb(255, 255, 255);
     font-weight: 600;
 }
 .blog-container{
