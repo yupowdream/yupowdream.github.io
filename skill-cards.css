@@ -1,0 +1,31 @@
+body {
+    background-color: lightblue;
+    margin: 200px;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  p {
+    font-family: verdana;
+    font-size: 16px;
+  }
+  #skill-cards-container{
+    border: 3px outset black;
+    display: flex;
+    justify-content:center
+  }
+  .skill-card{
+    border: 2px outset rgb(0, 0, 0);
+    margin: 10px;
+    padding: 20px;
+    align-items: center;
+  }
+  .skill-image{
+    shape-rendering: auto;
+    padding: 60px;
+
+
+   
+  }
